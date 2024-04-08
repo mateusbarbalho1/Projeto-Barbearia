@@ -19,6 +19,7 @@ Desenvolvido por [Mateus Barbalho Soares](https://github.com/mateusbarbalho1).
 
 Este projeto foi criado como parte do curso de HTML e CSS da Alura.
 
-   ![Home](img1.jpeg) Home
-   ![Produtos](img2.jpeg) Produtos
-   ![Contato](img3.jpeg) Contato
+![Home](img1.jpeg "Home") | ![Produtos](img2.jpeg "Produtos") | ![Contato](img3.jpeg "Contato")
+---|---|---
+Home | Produtos | Contato
+
